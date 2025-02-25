@@ -43,7 +43,7 @@ export default function AdvantagesSection() {
       icon: Rocket,
       title: "Control Total de Marca",
       emoji: "🎨",
-      description: "Diseño web personalizado que refleja tu identidad corporativa con sistema CMS integrado.",
+      description: "Diseño web personalizado que refleja tu identidad corporativa.",
       color: "from-amber-500 to-amber-600"
     },
     {

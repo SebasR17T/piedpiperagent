@@ -8,21 +8,21 @@ import { useInView } from "react-intersection-observer";
 const testimonials = [
   {
     name: "Andrés Gómez",
-    company: "Empanadas 'El Parce'",
+    company: "Empanadas 'El Paisa'",
     rating: 5,
     image: "/images/reseña1.jpg",
     text: "¡Increíble! El equipo de Pied-Piper me desarrolló una página web increíble para mi negocio. Las ventas han aumentado muchísimo, ¡estoy muy contento! El bot que implementaron atiende a los clientes de lujo, superando hasta mis expectativas."
   },
   {
     name: "Carolina Martínez",
-    company: "Peluquería 'Puro Visaje'",
+    company: "Peluquería 'Peinados de Ensueño'",
     rating: 4.5,
     image: "/images/reseña2.jpg",
     text: "Oigan, estos pelados son una cosa seria. Me armaron una página súper chévere y un bot que agenda los turnos sin enredos. Ya no tengo que estar pendiente del WhatsApp 24/7, ¡qué ganancia! Quedé enamorada, todo muy profecional."
   },
   {
     name: "Juan David Restrepo",
-    company: "Cafetería 'El Despelote'",
+    company: "Cafetería 'El Cafecito'",
     rating: 5,
     image: "/images/reseña3.jpg",
     text: "¡Qué maravilla! Pied-Piper me ayudó a automatizar mi cafetería con un bot que toma pedidos y envía notificaciones. Ahora puedo atender a más clientes sin perder calidad en el servicio. ¡Gracias por tanto!"}
