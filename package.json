@@ -13,9 +13,12 @@
     "preview_image_url": "https://imagedelivery.net/wSMYJvS3Xw-n339CbDyDIA/e42eec61-db86-49c8-7b29-c3ed4783e400/public"
   },
   "dependencies": {
+    "framer-motion": "^12.4.7",
+    "lucide-react": "^0.475.0",
     "next": "14.2.23",
     "react": "18.3.1",
-    "react-dom": "18.3.1"
+    "react-dom": "18.3.1",
+    "react-intersection-observer": "^9.15.1"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "4.20250204.0",
