@@ -20,7 +20,7 @@ interface SubmissionStatus {
   message: string;
 }
 
-const API_ENDPOINT = process.env.NEXT_PUBLIC_CONTACT_FORM_API || 'https://n8n.crecimientocapilar.com/webhook-test/6915be48-178c-4d95-a901-a1e4609f9f0e';
+const API_ENDPOINT = process.env.NEXT_PUBLIC_CONTACT_FORM_API || 'https://n8n.crecimientocapilar.com/webhook/6915be48-178c-4d95-a901-a1e4609f9f0e';
 
 const ContactFormSection = ({ contactRef }: ContactFormSectionProps) => {
   const [formData, setFormData] = useState<FormData>({
